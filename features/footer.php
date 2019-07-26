@@ -10,6 +10,7 @@
         #footer_container{
             margin-right: 16px;
             margin-left: 16px;
+            margin-top: -70px;
         }
       
 
@@ -87,29 +88,29 @@
                         <div class="f_widget about-widget pl_20 wow fadeInLeft" data-wow-delay="0.8s">
                             <h3 class="f-title f_600 t_color f_size_18 mb_40">Integrations</h3>
                             <ul class="list-unstyled f_list">
-                                <li><a href="integrations/Salesforce.php">Salesforce</a></li>
-                                <li><a href="https://justcall.io/integrations/zendesk">Zendesk</a></li>
-                                <li><a href="https://justcall.io/integrations/slack">Slack</a></li>
-                                <li><a href="https://justcall.io/integrations/desk">Desk.com</a></li>
-                                <li><a href="https://justcall.io/integrations/infusionsoft">Infusionsoft</a></li>
-                                <li><a href="https://justcall.io/integrations/pipedrive">Pipedrive</a></li>
-                                <li><a href="https://justcall.io/integrations/kustomer">Kustomer</a></li>
-                                <li><a href="https://justcall.io/integrations/freshdesk">Freshdesk</a></li>
-                                <li><a href="https://justcall.io/integrations/freshsales">Freshsales</a></li>
-                                <li><a href="https://justcall.io/integrations/zoho">Zoho</a></li>
-                                <li><a href="https://justcall.io/integrations/hubspot">Hubspot</a></li>
-                                <li><a href="https://justcall.io/integrations/front">Front</a></li>
-                                <li><a href="https://justcall.io/integrations/zapier">Zapier</a></li>
-                                <li><a href="https://justcall.io/integrations/groove">Groove</a></li>
-                                <li><a href="https://justcall.io/integrations/intercom">Intercom</a></li>
-                                <li><a href="https://justcall.io/integrations/help-scout">Help Scout</a></li>
-                                <li><a href="https://justcall.io/integrations/agile-crm">Agile CRM</a></li>
-                                <li><a href="https://justcall.io/integrations/nimble">Nimble</a></li>
-                                <li><a href="https://justcall.io/integrations/prosperworks">Prosperworks</a></li>
-                                <li><a href="https://justcall.io/integrations/copper">Copper</a></li>
-                                <li><a href="https://justcall.io/integrations/synchroteam">Synchroteam</a></li>
-                                <li><a href="https://justcall.io/integrations/googlecontacts">Google Contacts</a></li>
-                                <li><a href="https://justcall.io/integrations/googlecalender">Google Calender</a></li>
+                                <li><a href="integrations/salesforce.php">Salesforce</a></li>
+                                <li><a href="integrations/zendesk">Zendesk</a></li>
+                                <li><a href="integrations/slack">Slack</a></li>
+                                <li><a href="integrations/desk">Desk.com</a></li>
+                                <li><a href="integrations/infusionsoft">Infusionsoft</a></li>
+                                <li><a href="integrations/pipedrive">Pipedrive</a></li>
+                                <li><a href="integrations/kustomer">Kustomer</a></li>
+                                <li><a href="integrations/freshdesk">Freshdesk</a></li>
+                                <li><a href="integrations/freshsales">Freshsales</a></li>
+                                <li><a href="integrations/zoho">Zoho</a></li>
+                                <li><a href="integrations/hubspot">Hubspot</a></li>
+                                <li><a href="integrations/front">Front</a></li>
+                                <li><a href="integrations/zapier">Zapier</a></li>
+                                <li><a href="integrations/groove">Groove</a></li>
+                                <li><a href="integrations/intercom">Intercom</a></li>
+                                <li><a href="integrations/help-scout">Help Scout</a></li>
+                                <li><a href="integrations/agile-crm">Agile CRM</a></li>
+                                <li><a href="integrations/nimble">Nimble</a></li>
+                                <li><a href="integrations/prosperworks">Prosperworks</a></li>
+                                <li><a href="integrations/copper">Copper</a></li>
+                                <li><a href="integrations/synchroteam">Synchroteam</a></li>
+                                <li><a href="integrations/googlecontacts">Google Contacts</a></li>
+                                <li><a href="integrations/googlecalender">Google Calender</a></li>
                             </ul>
                         </div>
                     </div>
@@ -120,17 +121,19 @@
                                 <li><a href="#">Affiliate Partner</a></li>
                                 <li><a href="#">Technology Partner</a></li>
                                 <li><a href="#">Agency Program</a></li>
-                            </ul> <br>
+                            </ul> <br> <br>
                             <h3 class="f-title f_600 t_color f_size_18 mb_40">Platform Tools</h3>
                             <ul class="list-unstyled f_list">
                                 <li><a href="#">Service Status</a></li>
                                 <li><a href="#">Network Test</a></li>
                                 <li><a href="#">Audio Devices</a></li>
+                            </ul> <br> <br>
                             <h3 class="f-title f_600 t_color f_size_18 mb_40">Other Links</h3>
                             <ul class="list-unstyled f_list">
                                 <li><a href="#">Recent Updates</a></li>
                                 <li><a href="#">We are Hiring</a></li>
-                                <li><a href="#">API Documentation</a></li>    
+                                <li><a href="#">API Documentation</a></li> 
+                            </ul>   
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-6">

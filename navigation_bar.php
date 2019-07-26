@@ -62,7 +62,7 @@ $activePage = basename($_SERVER['PHP_SELF'], ".php");
                                 <li class="nav-item">
                                     
                                     <ul class="dropdown-menu">
-                                        <li class="nav-item"><a href="/justcall/features/international-numbers" class="nav-link">Get Phone Numbers</a></li>
+                                        <li class="nav-item"><a href="international-numbers" class="nav-link">Get Phone Numbers</a></li>
                                         <li class="nav-item"><a href="/justcall/features/makeandreceivecalls" class="nav-link">Make and Receive Calls</a></li>
                                         <li class="nav-item"><a href="/justcall/features/calltracking" class="nav-link">Call Tracking</a></li>
                                         <li class="nav-item"><a href="/justcall/features/record-calls" class="nav-link">Call Recording</a></li>

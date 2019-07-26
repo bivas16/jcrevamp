@@ -14,15 +14,16 @@
     <link rel="shortcut icon" href="https://justcall.io/favicon.png" type="image/x-icon">
     <title>Saasland</title>
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/css/bootstrap.min.css">
     <!--icon font css-->
-    <link rel="stylesheet" href="vendors/themify-icon/themify-icons.css">
-    <link rel="stylesheet" href="vendors/flaticon/flaticon.css">
-    <link rel="stylesheet" href="vendors/animation/animate.css">
-    <link rel="stylesheet" href="vendors/owl-carousel/assets/owl.carousel.min.css">
-    <link rel="stylesheet" href="vendors/magnify-pop/magnific-popup.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/vendors/themify-icon/themify-icons.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/vendors/flaticon/flaticon.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/vendors/animation/animate.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/vendors/owl-carousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/vendors/magnify-pop/magnific-popup.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/css/style.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/css/responsive.css">
+
 
     <style type="text/css">
         
@@ -72,17 +73,17 @@
     </footer>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/propper.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="vendors/wow/wow.min.js"></script>
-    <script src="vendors/sckroller/jquery.parallax-scroll.js"></script>
-    <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
-    <script src="vendors/imagesloaded/imagesloaded.pkgd.min.js"></script>
-    <script src="vendors/isotope/isotope-min.js"></script>
-    <script src="vendors/magnify-pop/jquery.magnific-popup.min.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/main.js"></script>
+   <script src="//cdn.justcall.io/landing/js/jquery-3.2.1.min.js"></script>
+    <script src="//cdn.justcall.io/landing/js/propper.js"></script>
+    <script src="//cdn.justcall.io/landing/js/bootstrap.min.js"></script>
+    <script src="//cdn.justcall.io/landing/vendors/wow/wow.min.js"></script>
+    <script src="//cdn.justcall.io/landing/vendors/sckroller/jquery.parallax-scroll.js"></script>
+    <script src="//cdn.justcall.io/landing/vendors/owl-carousel/owl.carousel.min.js"></script>
+    <script src="//cdn.justcall.io/landing/vendors/imagesloaded/imagesloaded.pkgd.min.js"></script>
+    <script src="//cdn.justcall.io/landing/vendors/isotope/isotope-min.js"></script>
+    <script src="//cdn.justcall.io/landing/vendors/magnify-pop/jquery.magnific-popup.min.js"></script>
+    <script src="//cdn.justcall.io/landing/js/plugins.js"></script>
+    <script src="//cdn.justcall.io/landing/js/main.js"></script>
 </body>
 
 </html>

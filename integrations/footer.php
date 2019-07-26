@@ -53,7 +53,7 @@
                         <div class="f_widget about-widget pl_20 wow fadeInLeft" data-wow-delay="0.6s">
                             <h3 class="f-title f_600 t_color f_size_18 mb_40">Features</h3>
                             <ul class="list-unstyled f_list">
-                                <li><a href="../features/international-numbers?utm_source=<?php echo $utmsource ?>">Get Phone Numbers</a></li>
+                                <li><a href="features/international-numbers?utm_source=<?php echo $utmsource ?>">Get Phone Numbers</a></li>
                                 <li><a href="">Make and Receive Calls</a></li>
                                 <li><a href="features/calltracking?utm_source=<?php echo $utmsource ?>">Call Tracking</a></li>
                                 <li><a href="features/record-calls?utm_source=<?php echo $utmsource ?>">Call Recording</a></li>
