@@ -39,15 +39,15 @@
     <link rel="shortcut icon" href="https://justcall.io/favicon.png" type="image/x-icon">
     <title>Saasland</title>
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="//cdn.justcall.io/landing///cdn.justcall.io/landing/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/css/bootstrap.min.css">
     <!--icon font css-->
-    <link rel="stylesheet" href="//cdn.justcall.io/landing///cdn.justcall.io/landing/vendors/themify-icon/themify-icons.css">
-    <link rel="stylesheet" href="//cdn.justcall.io/landing///cdn.justcall.io/landing/vendors/flaticon/flaticon.css">
-    <link rel="stylesheet" href="//cdn.justcall.io/landing///cdn.justcall.io/landing/vendors/animation/animate.css">
-    <link rel="stylesheet" href="//cdn.justcall.io/landing///cdn.justcall.io/landing/vendors/owl-carousel/assets/owl.carousel.min.css">
-    <link rel="stylesheet" href="//cdn.justcall.io/landing///cdn.justcall.io/landing/vendors/magnify-pop/magnific-popup.css">
-    <link rel="stylesheet" href="//cdn.justcall.io/landing///cdn.justcall.io/landing/css/style.css">
-    <link rel="stylesheet" href="//cdn.justcall.io/landing///cdn.justcall.io/landing/css/responsive.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/vendors/themify-icon/themify-icons.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/vendors/flaticon/flaticon.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/vendors/animation/animate.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/vendors/owl-carousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/vendors/magnify-pop/magnific-popup.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/css/style.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/css/responsive.css">
 
     <style type="text/css">
         
@@ -71,7 +71,7 @@
         <img class="breadcrumb_shap" src="img/breadcrumb/banner_bg.png" alt="">
         <div class="container">
             <div class="breadcrumb_content text-center">
-                <h1 class="f_p f_700 f_size_50 w_color l_height50 mb_20"><?php echo $headline ?></h1>
+                <h1 class="f_p f_700 f_size_50 w_color l_height50 mb_20"><?php //echo $headline ?></h1>
                 <p class="f_300 w_color f_size_16 l_height26">Why I say old chap that is spiffing off his nut arse pear shaped plastered<br> Jeffrey bodge barney some dodgy.!!</p>
             </div>
         </div>

@@ -34,7 +34,7 @@
     <link rel="shortcut icon" href="https://justcall.io/favicon.png" type="image/x-icon">
     <title>Saasland</title>
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="//cdn.justcall.io/landing/css/responsive.csscss/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdn.justcall.io/landing/css/bootstrap.min.css">
     <!--icon font css-->
     <link rel="stylesheet" href="//cdn.justcall.io/landing/vendors/themify-icon/themify-icons.css">
     <link rel="stylesheet" href="//cdn.justcall.io/landing/vendors/flaticon/flaticon.css">
