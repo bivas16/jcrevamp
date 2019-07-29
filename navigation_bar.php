@@ -27,7 +27,7 @@ $activePage = basename($_SERVER['PHP_SELF'], ".php");
 
 <nav class="navbar navbar-expand-lg menu_one menu_four">
             <div class="container">
-                <a class="navbar-brand sticky_logo" href="index.php">
+                <a class="navbar-brand sticky_logo" href="../index.php">
                     <img src="https://cdn.justcall.io/images/logo-desktop.png" srcset="https://cdn.justcall.io/images/logo-desktop.png" alt="logo">
                     <img src="https://cdn.justcall.io/images/logo-desktop.png" srcset="https://cdn.justcall.io/images/logo-desktop.png" alt="logo">
                 </a>
